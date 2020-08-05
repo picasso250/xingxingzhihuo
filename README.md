@@ -1,5 +1,5 @@
 # xingxingzhihuo
-为了防止QQ炸群，大家请把自己的QQ号以及其他联系方式写下来。
+为了防止QQ炸群，大家请把自己的QQ号以及其他联系方式写下来（其他联系方式是为了防止你QQ号也被炸了）。
 
 如果你不会使用Github，请联系 霄池 他会帮助你完成这件事情。
 
@@ -11,7 +11,8 @@
 
 |  代号    | QQ号      |其他联系方式    |
 |---------|-----------|---------------|
-| xiaochi |281055003  |wxiaochi@qq.com|
+| xiaochi |281055003  | zhihu.com/people/wang-xiao-chi |
 
 加密者
-U2FsdGVkX19+u/MOUGkKplium5sSXysj2dXYm1wkUCfRUZ4tRaYumHlGIE+GIxXhnsZajcOqKeYsHw0SzJnoaA==
+
+U2FsdGVkX1+C5qR10fDVPslqBzOfe3fcOtUKDVDSv8f4SvRKi1oiizykvwW5qA/p9mJqJKcnykEjtr3BDs/5Ekg0Z5VYDptfrHpaf8J6w3v2mxbW/VsTrpAPxQO/GqrX
